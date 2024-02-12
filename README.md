@@ -6,9 +6,10 @@ Create a simple login page and handle user authentication.
 Optionally, protect routes that require authentication.
 
 ## installation:
-,,,bash
-npm i
+```bash
+npm install
 npm run dev
+
 
 
 
